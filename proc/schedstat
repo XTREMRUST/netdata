@@ -1,0 +1,18 @@
+(...)
+
+2018-12-15 15:53:00: netdata ERROR : PLUGIN[proc] : PROCFILE: Cannot open file '/proc/schedstat' (errno 2, No such file or directory)
+2018-12-15 15:53:01: netdata ERROR : PLUGIN[proc] : PROCFILE: Cannot open file '/proc/schedstat' (errno 2, No such file or directory)
+2018-12-15 15:53:02: netdata ERROR : PLUGIN[proc] : PROCFILE: Cannot open file '/proc/schedstat' (errno 2, No such file or directory)
+2018-12-15 15:53:03: netdata ERROR : PLUGIN[proc] : PROCFILE: Cannot open file '/proc/schedstat' (errno 2, No such file or directory)
+2018-12-15 15:53:04: netdata ERROR : PLUGIN[proc] : PROCFILE: Cannot open file '/proc/schedstat' (errno 2, No such file or directory)
+2018-12-15 15:53:05: netdata ERROR : PLUGIN[proc] : PROCFILE: Cannot open file '/proc/schedstat' (errno 2, No such file or directory)
+2018-12-15 15:53:06: netdata ERROR : PLUGIN[proc] : PROCFILE: Cannot open file '/proc/schedstat' (errno 2, No such file or directory)
+2018-12-15 15:53:07: netdata ERROR : PLUGIN[proc] : PROCFILE: Cannot open file '/proc/schedstat' (errno 2, No such file or directory)
+2018-12-15 15:53:08: netdata ERROR : PLUGIN[proc] : PROCFILE: Cannot open file '/proc/schedstat' (errno 2, No such file or directory)
+2018-12-15 15:53:09: netdata ERROR : PLUGIN[proc] : PROCFILE: Cannot open file '/proc/schedstat' (errno 2, No such file or directory)
+2018-12-15 15:53:10: netdata LOG FLOOD PROTECTION too many logs (201 logs in 200 seconds, threshold is set to 200 logs in 1200 seconds). Preventing more logs from process 'netdata' for 1000 seconds.
+
+(...)
+
+
+
